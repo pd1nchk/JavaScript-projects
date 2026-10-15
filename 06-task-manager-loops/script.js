@@ -30,6 +30,7 @@ for(let task of tasks){
         lengthCounter++
     }
 }
+
 console.log(lengthCounter)
 
 //6.вывести задачи по условию

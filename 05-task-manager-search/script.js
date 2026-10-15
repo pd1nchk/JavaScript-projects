@@ -34,6 +34,7 @@ else if(tasks.length == 3){
 else{
     console.log("Задач мало!")
 }
+
 //5.првоерить первую задачу
 if(tasks[0] == "Купить ботинки"){
     console.log("Первая задача верна!")
